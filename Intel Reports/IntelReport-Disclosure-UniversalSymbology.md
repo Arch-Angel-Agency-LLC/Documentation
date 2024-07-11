@@ -1,3 +1,6 @@
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 # Introduction
 
 **Objective**: Provide an overview of the document, outlining the purpose, structure, and key themes. Introduce the concept of Universal Symbology and its significance, and explain the integration of self-correcting error codes within this framework.
