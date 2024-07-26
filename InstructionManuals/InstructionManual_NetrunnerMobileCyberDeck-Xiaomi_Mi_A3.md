@@ -162,23 +162,13 @@ Unlocking the bootloader on your Xiaomi Mi A3 is the first essential step to ins
 
 #### Enable Developer Options
 
-![Developer Options](https://i.imgur.com/Xp4OQdV.png)
-
 #### Enable OEM Unlocking and USB Debugging
-
-![Developer Options Menu](https://i.imgur.com/xNk3p1L.png)
 
 #### Mi Unlock Status
 
-![Mi Unlock Status](https://i.imgur.com/vT8sZn4.png)
-
 #### Fastboot Mode
 
-![Fastboot Mode](https://i.imgur.com/6ZtoSo8.png)
-
 #### Mi Unlock Tool
-
-![Mi Unlock Tool](https://i.imgur.com/4vJNVSm.png)
 
 ### Troubleshooting
 
@@ -313,15 +303,11 @@ Ensure you also download the required Google Apps (GApps) package compatible wit
 2. Navigate to the location where you saved the LineageOS 18.1 ROM and select the file.
 3. Swipe to confirm the flash.
 
-![TWRP Install](https://i.imgur.com/8DH3rDg.png)
-
 #### Step 5: Flash GApps Package
 
 1. After the ROM installation is complete, go back to the TWRP main menu and tap on **Install** again.
 2. Navigate to the location where you saved the GApps package and select the file.
 3. Swipe to confirm the flash.
-
-![TWRP GApps Install](https://i.imgur.com/Ukm2mNM.png)
 
 #### Step 6: Wipe Cache and Dalvik
 
@@ -344,8 +330,6 @@ Ensure you also download the required Google Apps (GApps) package compatible wit
 
 1. Once the setup is complete, navigate to **Settings** > **About phone**.
 2. Ensure that the **LineageOS version** is displayed as 18.1.
-
-![LineageOS About Phone](https://i.imgur.com/WXN8XzB.png)
 
 #### Step 4: Test Functionality
 
@@ -391,16 +375,12 @@ Rooting your Xiaomi Mi A3 with Magisk provides enhanced control over your device
 2. Navigate to the location where you saved the Magisk ZIP file and select it.
 3. Swipe to confirm the flash.
 
-![TWRP Magisk Install](https://i.imgur.com/8DH3rDg.png)
-
 4. Wait for the installation process to complete. It should only take a few seconds.
 
 #### Step 5: Wipe Cache and Dalvik
 
 1. After the installation is complete, tap on **Wipe Cache/Dalvik**.
 2. Swipe to confirm.
-
-![Wipe Cache and Dalvik](https://i.imgur.com/Q5Q7MFo.png)
 
 ### Verifying Root Access and Security Considerations
 
@@ -416,16 +396,12 @@ Rooting your Xiaomi Mi A3 with Magisk provides enhanced control over your device
 
 2. Open Magisk Manager and verify that Magisk is installed correctly. You should see the current version of Magisk displayed at the top.
 
-![Magisk Manager](https://i.imgur.com/ZH3Y2sA.png)
-
 #### Step 3: Verify Root Access
 
 1. To verify root access, download and install a root checker app from the Google Play Store:
    - [Root Checker](https://play.google.com/store/apps/details?id=com.joeykrim.rootcheck)
 
 2. Open the Root Checker app and follow the on-screen instructions to verify root access.
-
-![Root Checker](https://i.imgur.com/FO6ZT8r.png)
 
 #### Security Considerations
 
@@ -473,16 +449,12 @@ Download the Force Encryption Disabler ZIP file from the following link:
 2. Navigate to the location where you saved the Force Encryption Disabler ZIP file and select it.
 3. Swipe to confirm the flash.
 
-![TWRP Install](https://i.imgur.com/8DH3rDg.png)
-
 4. Wait for the installation process to complete. It should only take a few seconds.
 
 ##### Step 4: Wipe Cache and Dalvik
 
 1. After the installation is complete, tap on **Wipe Cache/Dalvik**.
 2. Swipe to confirm.
-
-![Wipe Cache and Dalvik](https://i.imgur.com/Q5Q7MFo.png)
 
 ### Ensuring Encryption Is Disabled Correctly
 
@@ -495,8 +467,6 @@ Download the Force Encryption Disabler ZIP file from the following link:
 
 1. Once your device has booted up, go to **Settings** > **Security**.
 2. Scroll down to the **Encryption** section. It should indicate that the device is not encrypted.
-
-![Encryption Status](https://i.imgur.com/8pwxxtd.png)
 
 3. Alternatively, you can verify the encryption status using the terminal emulator or ADB:
    - Open a terminal emulator app on your device or connect your device to your computer and open a command prompt.
@@ -546,16 +516,12 @@ To get the latest NetHunter installer, follow these steps:
 2. Navigate to the location where you saved the NetHunter installer ZIP file and select it.
 3. Swipe to confirm the flash.
 
-![TWRP Install](https://i.imgur.com/8DH3rDg.png)
-
 4. Wait for the installation process to complete. It should take a few minutes.
 
 #### Step 4: Wipe Cache and Dalvik
 
 1. After the installation is complete, tap on **Wipe Cache/Dalvik**.
 2. Swipe to confirm.
-
-![Wipe Cache and Dalvik](https://i.imgur.com/Q5Q7MFo.png)
 
 ### Verifying Successful Installation and Initial Configuration
 
@@ -575,14 +541,10 @@ To get the latest NetHunter installer, follow these steps:
 1. Open the **NetHunter App Store** from the NetHunter app.
 2. Install essential NetHunter components such as **NetHunter Terminal**, **NetHunter KeX**, and **Chroot Manager**.
 
-![NetHunter App Store](https://i.imgur.com/GkI8cQi.png)
-
 #### Step 4: Verify NetHunter Chroot
 
 1. Open the **Chroot Manager** from the NetHunter app.
 2. Ensure that the full NetHunter chroot is installed and functional. If not, download and install it through the Chroot Manager.
-
-![NetHunter Chroot Manager](https://i.imgur.com/UV3oMe1.png)
 
 #### Step 5: Test NetHunter Tools
 
@@ -812,22 +774,16 @@ Upgrading from LineageOS 18.1 to LineageOS 20 on your Xiaomi Mi A3 allows you to
 2. Navigate to the location where you saved the LineageOS 20 ROM and select the file.
 3. Swipe to confirm the flash.
 
-![TWRP Install](https://i.imgur.com/8DH3rDg.png)
-
 #### Step 7: Flash GApps Package
 
 1. After the ROM installation is complete, go back to the TWRP main menu and tap on **Install** again.
 2. Navigate to the location where you saved the GApps package and select the file.
 3. Swipe to confirm the flash.
 
-![TWRP GApps Install](https://i.imgur.com/Ukm2mNM.png)
-
 #### Step 8: Wipe Cache and Dalvik
 
 1. After the GApps installation is complete, tap on **Wipe Cache/Dalvik**.
 2. Swipe to confirm.
-
-![Wipe Cache and Dalvik](https://i.imgur.com/Q5Q7MFo.png)
 
 #### Step 9: Reboot Your Device
 
@@ -859,16 +815,12 @@ Upgrading from LineageOS 18.1 to LineageOS 20 on your Xiaomi Mi A3 allows you to
 2. Navigate to the location where you saved the NetHunter installer ZIP file and select it.
 3. Swipe to confirm the flash.
 
-![TWRP Install](https://i.imgur.com/8DH3rDg.png)
-
 4. Wait for the installation process to complete. It should take a few minutes.
 
 #### Step 5: Wipe Cache and Dalvik
 
 1. After the installation is complete, tap on **Wipe Cache/Dalvik**.
 2. Swipe to confirm.
-
-![Wipe Cache and Dalvik](https://i.imgur.com/Q5Q7MFo.png)
 
 #### Step 6: Reboot Your Device
 
